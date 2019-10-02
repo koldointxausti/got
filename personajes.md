@@ -6,5 +6,3 @@ Cersei Lannister
 Sansa Stark
 Jaime Lannister
 Brienne de Tarth
-Ned Stark
-La montaña
